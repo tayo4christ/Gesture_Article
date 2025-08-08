@@ -1,4 +1,4 @@
-# Real-Time Gesture-to-Text Translator (Python + MediaPipe)
+# Creating a Real-Time Gesture-to-Text Translator Using Python and Mediapipe
 
 A beginner-friendly tutorial project that detects hand gestures in real time and converts them to text using Python, MediaPipe, OpenCV, and scikit-learn.
 
