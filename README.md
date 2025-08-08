@@ -95,7 +95,7 @@ See `diagrams/pipeline_flowchart.png` for a visual overview.
 - Support both hands / multi-hand interactions
 
 ## 🔗 Canonical Link
-If you republish this tutorial on multiple platforms, set the canonical URL to the original DEV.to post to avoid SEO duplication.
+https://dev.to/tayo4christ/how-i-built-a-real-time-gesture-to-text-translator-using-python-and-mediapipe-1c75
 
 ## 🙌 Acknowledgements
 - MediaPipe team for the real-time hand tracking solution
